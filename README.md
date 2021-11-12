@@ -14,8 +14,8 @@ I build this project to show a portfolio that can  showcases all my skills in HT
 This project is under the MIT License.
 
 # links
-Deployed URL:https://oliversh99.github.io/My-Portfolio-site/
-GitHub Repo URL:https://github.com/oliversh99/My-Portfolio-site
+- Deployed URL:https://oliversh99.github.io/My-Portfolio-site/
+- GitHub Repo URL:https://github.com/oliversh99/My-Portfolio-site
 
 # Questions
 For questions about this project, please reach out by email at olivcode999@gmail.com
